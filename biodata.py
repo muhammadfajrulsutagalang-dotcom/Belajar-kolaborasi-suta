@@ -8,7 +8,7 @@ alamat = "Isi dengan alamat kamu"
 kota = "Isi dengan Kota kamu"
 
 print("Nama Lengkap  :", suta)
-print("Alamat        :", magelang"\n      Kota :", magelang)
+print("Alamat        :", magelang"\n      Kota :", Bengkulu)
 print("Hobi          :", makan)
 
 print("======================================")
