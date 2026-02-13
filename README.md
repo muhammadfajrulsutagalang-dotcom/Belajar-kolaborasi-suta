@@ -5,5 +5,5 @@ main
 =======
 Suta galang
 kelas 12
-main
+devolepment
 sutaa ganteng
