@@ -6,3 +6,4 @@ main
 Suta galang
 kelas 12
 devolepment
+sutaa ganteng
